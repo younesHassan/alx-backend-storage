@@ -1,2 +1,0 @@
-// lists all docs with specific field
-db.school.find( {name: "Holberton school" })
